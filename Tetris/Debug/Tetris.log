@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\projects\game\tetris\tetris\main.cpp(16): error C2259: 'MyTest': cannot instantiate abstract class
+  c:\projects\game\tetris\tetris\main.cpp(16): note: due to following members:
+  c:\projects\game\tetris\tetris\main.cpp(16): note: 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': is abstract
+  c:\projects\game\sfml-2.5.1\include\sfml\graphics\drawable.hpp(69): note: see declaration of 'sf::Drawable::draw'
+c:\projects\game\tetris\tetris\main.cpp(20): error C2259: 'MyTest': cannot instantiate abstract class
+  c:\projects\game\tetris\tetris\main.cpp(20): note: due to following members:
+  c:\projects\game\tetris\tetris\main.cpp(20): note: 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': is abstract
+  c:\projects\game\sfml-2.5.1\include\sfml\graphics\drawable.hpp(69): note: see declaration of 'sf::Drawable::draw'
+  Text.cpp
+  Generating Code...
